@@ -1,0 +1,6 @@
+C:\Users\seoul\Desktop\Temp>javac Hello.java
+
+C:\Users\seoul\Desktop\Temp>java Hello
+Hello, welcome to the java wrold
+
+C:\Users\seoul\Desktop\Temp>
